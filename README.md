@@ -1,5 +1,8 @@
 # ai-bridge
 
+A browser extension library brings the AI power of the ChatGPT to another webpage.
+
+# Something to say!!!
 We have seen so many great applications to bring the AI power of the ChatGPT to another webpage. One of the most famous is the [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension).It brings the AI power of the ChatGPT to google.
 
 My friend! You can do the same thing by using this library in the background.js and injecting the content_script to the traditional website you want using the [browser extension techie](https://developer.chrome.com/docs/extensions/mv3/). Then you can send the message between the website and 
@@ -16,7 +19,6 @@ Time to write some code, developer!!
 
 ```
 npm install ai-bridge
-
 ```
 
 ## Usage
@@ -25,7 +27,7 @@ Import AI-Bridge:
 import { ChatGptWebProvider }   from "ai-bridge"
 ```
 
-## ask
+### Ask
 ```javascript
 import { ChatGptWebProvider } from "ai-bridge"
 let BridgeInstance = new ChatGptWebProvider();
@@ -46,7 +48,7 @@ controller.abort()
 
 ```
 
-## talk
+### Talk
 
 Talking in the same chat channel.
 
