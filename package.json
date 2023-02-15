@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "eventsource-parser": "^0.1.0",
+    "expiry-map": "^2.0.0",
+    "uuid": "^9.0.0"
+  },
+  "name": "ai-bridge",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lxfater",
+  "license": "ISC",
+  "description": ""
+}
