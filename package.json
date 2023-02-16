@@ -9,7 +9,7 @@
     "uuid": "^9.0.0"
   },
   "name": "ai-bridge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -19,11 +19,15 @@
   "author": "lxfater",
   "license": "Apache-2.0",
   "description": "A browser extension library brings the AI power of the ChatGPT to another webpage.",
-  "keywords": ["bridge", "browser extension", "ai", "chatgpt"],
+  "keywords": [
+    "bridge",
+    "browser extension",
+    "ai",
+    "chatgpt"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/lxfater/ai-bridge.git"
   },
   "homepage": "https://github.com/lxfater/ai-bridge.git"
-
 }
