@@ -1,7 +1,6 @@
-# ai-bridge
+# Ai-Bridge
 
 A browser extension library brings the AI power of the ChatGPT to another webpage.
-
 # Something to say!!!
 We have seen so many great applications to bring the AI power of the ChatGPT to another webpage. One of the most famous is the [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension).It brings the AI power of the ChatGPT to google.
 
