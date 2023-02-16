@@ -1,5 +1,8 @@
 # Ai-Bridge
-
+## Important things
+It is some kind of hacking thing so you should take responsibility to use this library since your account may be banned when your call the provider(chatgpt or ...) API frequently. I recommend you use the 
+unimportant account to use this library.
+## What is ai-bridge ?
 A browser extension library brings the AI power of the ChatGPT to another webpage.
 # Something to say!!!
 We have seen so many great applications to bring the AI power of the ChatGPT to another webpage. One of the most famous is the [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension).It brings the AI power of the ChatGPT to google.
